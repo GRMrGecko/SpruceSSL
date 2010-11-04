@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>www.twitter.com</string>
+	<string>twitter.com</string>
+	<string>.facebook.com</string>
+	<string>www.myspace.com</string>
+	<string>.bit.ly</string>
+	<string>www.enom.com</string>
+	<string>www.harvestapp.com</string>
+	<string>.getharvest.com</string>
+	<string>.nytimes.com</string>
+	<string>www.evernote.com</string>
+	<string>www.dropbox.com</string>
+	<string>.cisco.com</string>
+	<string>manage.slicehost.com</string>
+	<string>.gowalla.com</string>
+	<string>.disqus.com</string>
+	<string>.intensedebate.com</string>
+	<string>.scribd.com</string>
+	<string>.godaddy.com</string>
+	<string>.posterous.com</string>
+	<string>.tumblr.com</string>
+	<string>www.netflix.com</string>
+	<string>.me.com</string>
+	<string>.paypal.com</string>
+	<string>www.salesforce.com</string>
+	<string>www.match.com</string>
+	<string>.aol.com</string>
+	<string>www.bankofamerica.com</string>
+	<string>.wellsfargo.com</string>
+	<string>www.regions.com</string>
+	<string>www.bbt.com</string>
+	<string>.chase.com</string>
+	<string>.suntrust.com</string>
+	<string>.usbank.com</string>
+	<string>www.53.com</string>
+	<string>.tdbank.com</string>
+	<string>www.citizensbank.com</string>
+	<string>www.capitalone.com</string>
+	<string>www.sovereignbank.com</string>
+	<string>www.huntington.com</string>
+	<string>www.bankofthewest.com</string>
+	<string>.ally.com</string>
+	<string>.wachovia.com</string>
+	<string>.bank.com</string>
+	<string>www.pnc.com</string>
+	<string>mail.google.com</string>
+	<string>.gmail.com</string>
+	<string>www.mint.com</string>
+	<string>.lastpass.com</string>
+</array>
+</plist>

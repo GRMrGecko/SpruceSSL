@@ -1,0 +1,20 @@
+Copyright (c) 2010 Mr. Gecko's Media (James Coleman). All rights reserved. http://mrgeckosmedia.com/
+
+Permission is granted, to any person obtaining a copy of this bundle, to
+	use, copy, modify, merge, or redistribute this bundle under the following terms:
+
+1. This file must be included in all copies of this bundle unmodified in
+	SpruceSSL.bundle/Resource/License.txt
+
+2. THIS BUNDLE IS PROVIDED "AS IS" BY JAMES COLEMAN, WITHOUT WARRANTY OF
+	ANY KIND. IF YOUR SOFTWARE/BUNDLE/COMPUTER CRASH OR FAILS TO WORK IN ANY
+	WAY SHAPE OR FORM BECAUSE OF THIS BUNDLE, I (JAMES COLEMAN) AM NOT IN ANYWAY
+	RESPONSIBLE FOR YOUR PROBLEM. BUT, I MAY BE WILLING TO HELP YOU, NO PROMISES.
+
+3. Redistributions of source code included in this bundle must retain the
+	copyright notice above this license file without modifications.
+
+4. Redistributions of binary must contain the copyright above this license file
+	without modifications.
+
+5. Mr. Gecko's Media (James Coleman) is allowed to modify these terms with little or no notice to anyone.
